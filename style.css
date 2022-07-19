@@ -62,7 +62,7 @@ ul .fa-trash{
     color: #ff0033;
 }
 
-ul .cheched{
+ul .checked{
     background: lightgreen;
     text-decoration: line-through;
     transition: 2s;
